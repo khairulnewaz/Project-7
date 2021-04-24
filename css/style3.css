@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+                      /* Header Section */
+header{
+    width: 100%;
+    float: left;
+    background-color:#FEFEFE;
+}
+
+.banner-main h2{
+
+}
+
+.banner-main p{
+
+}
+
+span { 
+    border-bottom: 8px solid rgb(219, 207, 207);
+    display: block;
+    width: 100%;
+    margin: 0px -42px 14px 3px;
+}
+
+
+.custom-btn{
+    
+    background-color: transparent;
+    border:2px solid white;
+    margin: 10px;
+
+
+}
+
+
+                          /* Contact Section */
+
+
+.contact{
+    width: 100%;
+    float: left;
+    padding: 25px;
+    background-color: #EE4A40;
+}
+
+.contact h2{
+    color:white;
+}
+
+.contact-square{
+
+}
+
+.contact-cars{
+    
+}
+
+.form-control{
+    background-color:#EE4A40;
+    color:white;
+}
+
+label{
+    color: white;
+}
+
+.contact-para{
+    color: white;
+    
+}
+
+.contact2{
+
+}
+
+.contact2-btn{
+    margin: 86px 0px 1px 0px;
+}
+
+.contact-btn{
+    background-color:#EE4A40;
+
+}
+
+
+
+
+   
+                           /* Copywrite  Section */
+
+.copyright{
+
+    width: 100%;
+    float: left;
+    background-color: red;
+}
+
+.para-copyright{
+    text-align: center;
+}
+
+.para-copyright p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    padding: 25px;
+}

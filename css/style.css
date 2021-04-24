@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+                      /* Header Section */
+header{
+    width: 100%;
+    float: left;
+    background-image:url(../img/headerback.png);
+    background-repeat: no-repeat;
+    
+}
+
+nav a {
+
+}
+ .nav-logo{
+    margin: 0px 0px 0px 171px;
+
+ }
+
+.banner-main {
+    margin: 90px;
+}
+.banner-main h2{
+    
+
+
+    background-color: grey;
+    display: inline;
+    color: white;
+    margin: 5px 16px -4px 109px;
+
+
+}
+
+.banner-main p{
+    margin: 0px 0px 0px 107px;
+    color: white;
+
+}
+
+span { 
+    border-bottom: 1px solid #e4e6e0;
+    display: block;
+    width: 5%;
+    margin: 9px -42px 15px 105px;
+}
+
+
+.custom-btn{
+    
+    background-color: transparent;
+    border: 2px solid white;
+    margin: 8px 10px 7px 100px;
+    padding: 9px 3px -1px 11px;
+    padding: 12px;
+    color:white;
+}
+
+
+
+
+                          /* Welcome Section */
+
+
+.welcome{
+    width: 100%;
+    float: left;
+    padding: 25px;
+    margin: 0px 0px 0px 85px;
+}
+
+
+
+    
+                            /* Another Section */
+
+    .another{
+    width: 100%;
+    float: left;
+    padding: 25px;
+    background-color: black;
+    color: white
+    
+}
+
+.another h2{
+
+    margin: 0px 0px 0px 78px;
+}
+.another p{
+
+    margin: 0px 0px 0px 78px;
+    
+}
+
+                           /* Copywrite  Section */
+
+.copyright{
+
+    width: 100%;
+    float: left;
+    background-color: red;
+}
+
+.para-copyright{
+    text-align: center;
+}
+
+.para-copyright p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: center;
+    padding: 25px;
+}
